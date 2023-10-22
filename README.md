@@ -2,9 +2,7 @@
 1. Clone the repositories.
 2. Install Composer.
    
-```bash
-composer install
-```
+```bash composer install ```
 
 3. Generate Laravel key.
    
