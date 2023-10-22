@@ -1,20 +1,20 @@
 ## How To Use
 1. Clone the repositories.
-2. Install Composer.
+2. Install composer.
    
 ```bash
 composer install
 ```
 
-3. Generate Laravel key.
+3. Generate laravel key.
    
 ```bash
 php artisan key:generate
 ```
 
 4. Open in code editor.
-5. Setting Database Name in .env.
-6. Run Artisan Serve.
+5. Setting database name in .env.
+6. Run artisan serve.
    
 ```bash
 php artisan serve
