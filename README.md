@@ -27,4 +27,4 @@ npm run dev
 ```
 
 8. Register account.
-9. Login.
+9. Login with your registered account.
